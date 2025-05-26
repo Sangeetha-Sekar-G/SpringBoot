@@ -1,3 +1,11 @@
+IOC - Inversion of Control(Principle)
+DI  - Dependency Injection(Design Pattern)
+
+On top of SpringFramework we got SpringBoot
+To reduce the lot of configuration in SpringFramework, we got SpringBoot
+So Basically SpringBoot works behind SpringFramework
+
+
 RoadMap:
 1. Java Fundamentals:
   Objective: Understand Core Java Concepts
