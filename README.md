@@ -1,4 +1,4 @@
-IOC - Inversion of Control(Principle)
+IOC - Inversion of Control(Principle) - Control of Object Creation & Dependency management is tranfered to framework, achieved by DI
 DI  - Dependency Injection(Design Pattern)
 
 On top of SpringFramework we got SpringBoot
